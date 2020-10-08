@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Bayaert Wendy-Shirley" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Hello ! I am Bayaert Wendy-Shirley and I study Biology at the University of Mons. In the context of the course of "Science des données I" given by the teacher Mr. Grosjean, I have created this blog.
 
 - first name/surname, teacher’s name, class name and academic year
