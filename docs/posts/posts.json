@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-10-25-mon-article/",
+    "title": "mon article",
+    "description": "Scientific article of an animal: the resplendent quetzal.",
+    "author": [
+      {
+        "name": "Bayaert Wendy-Shirley",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-26T12:48:03+01:00"
+  },
+  {
     "path": "posts/about/",
     "title": "About Me",
     "description": {},
