@@ -1,0 +1,39 @@
+---
+title: "mon article"
+description: |
+  Scientific article of an animal: the resplendent quetzal.
+author:
+  - name: Bayaert Wendy-Shirley
+    url: {}
+date: 10-25-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+# 1.Introduction:
+
+
+# 2.Description:
+
+
+# 3.Classification:
+
+
+# 4.Ecology:
+## Distribution and habitat:
+
+
+## Feeding:
+
+
+# 5.Reproduction:
+
