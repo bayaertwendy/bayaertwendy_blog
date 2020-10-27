@@ -21,15 +21,36 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 # 1.Introduction:
 
-The **resplendent quetzal** (*Pharomachrus mocinno*, La Llave, 1832)
+The **resplendent quetzal** (*Pharomachrus mocinno*, La Llave, 1832) is a bird in the Trogonidae family. This species is well known for its vibrantly colored plumage. It even figures on the Guatemala's flag, being the country's international bird.
+
+The resplendent quetzal is classified as near threatened on the IUCN Red List because of the disappearance of their habitat (tropical forests).
 
 # 2.Description:
 
+*Pharomachrus mocinno* have a emerald green body and a red breast. This plumage seems ideally suited for camouflage in the canopy during rainy conditions. In fact their iridescent feathers blends remarkably well with wet and shiny green vegetation.
+With his body of 15 to 16 inches (36 to 40 cm) long and his weight of about 7 to 8 ounces (210 g), it's the largest representative of the Trogoniformes order.
 
+During mating season, male resplendent quetzal develop a tail streamer up to three feet (1 m), being longer than the rest of the body.
+
+**Photography of a male:**
+
+![](https://besthqwallpapers.com/Uploads/8-2-2018/39951/thumb2-resplendent-quetzal-flying-bird-green-birds-south-america-pharomachrus-mocinno.jpg)
+
+**Photography of a female:**
+
+![](https://i.pinimg.com/originals/09/f7/b4/09f7b4638c6e443721e14f529dd1c13c.jpg)
 
 # 3.Classification:
 
-
+Taxon    |
+---------|---------
+Kingdom  | Animalia
+Phylum   | Chordata
+Class    | Aves
+Order    | Trogoniformes
+Family   | Trogonidae
+Genus    | Pharomachrus
+Species  | *P.mocinno*
 
 # 4.Ecology:
 ## Distribution and habitat:
