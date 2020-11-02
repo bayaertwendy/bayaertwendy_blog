@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/bayaertwendy/bayaertwendy_blog
-base_url: bayaertwendy.github.io/bayaertwendy_blog/
+base_url: https://bayaertwendy.github.io/bayaertwendy_blog/
 collections:
     posts:
       disqus: bayaertwendy-blog

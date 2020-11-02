@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>bayaertwendy.github.io/bayaertwendy_blog/</loc>
+    <loc>https://bayaertwendy.github.io/bayaertwendy_blog/</loc>
     <lastmod>2020-10-08T11:05:36+02:00</lastmod>
   </url>
   <url>
-    <loc>bayaertwendy.github.io/bayaertwendy_blog/posts/2020-10-25-mon-article/</loc>
-    <lastmod>2020-11-02T08:39:28+01:00</lastmod>
+    <loc>https://bayaertwendy.github.io/bayaertwendy_blog/posts/2020-10-25-mon-article/</loc>
+    <lastmod>2020-11-02T08:44:36+01:00</lastmod>
   </url>
   <url>
-    <loc>bayaertwendy.github.io/bayaertwendy_blog/posts/about/</loc>
+    <loc>https://bayaertwendy.github.io/bayaertwendy_blog/posts/about/</loc>
     <lastmod>2020-10-08T11:50:38+02:00</lastmod>
   </url>
   <url>
-    <loc>bayaertwendy.github.io/bayaertwendy_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
+    <loc>https://bayaertwendy.github.io/bayaertwendy_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
     <lastmod>2020-10-08T10:54:04+02:00</lastmod>
   </url>
   <url>
-    <loc>bayaertwendy.github.io/bayaertwendy_blog/posts/2019-10-25-biggest-rodent/</loc>
+    <loc>https://bayaertwendy.github.io/bayaertwendy_blog/posts/2019-10-25-biggest-rodent/</loc>
     <lastmod>2020-10-08T10:54:04+02:00</lastmod>
   </url>
   <url>
-    <loc>bayaertwendy.github.io/bayaertwendy_blog/posts/meal/</loc>
+    <loc>https://bayaertwendy.github.io/bayaertwendy_blog/posts/meal/</loc>
     <lastmod>2020-10-08T10:54:04+02:00</lastmod>
   </url>
 </urlset>
