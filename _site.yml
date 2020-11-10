@@ -16,7 +16,7 @@ collections:
     posts:
       disqus: bayaertwendy-blog
       share: [twitter, linkedin, facebook]
-      categories: false
+      categories: true
       categories_metadata: false
       authors_metadata: false
       #disqus:
