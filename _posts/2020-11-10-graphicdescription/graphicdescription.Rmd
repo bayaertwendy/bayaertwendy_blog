@@ -28,9 +28,9 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 # Introduction
 
-The study was realised thanks to a data frame with 19 variables on samples of zooplankton originating from Tulear in Madagascar, including the taxonomic classification.
-Those various features was measured by image analysis with the package zooimage and ImageJ. 
-Those organisms originate from various samples (different seasons, depth, etc.) to take the variability into account. -> **A arranger (grammaire) !**
+The study is realised thanks to a data frame with 19 variables on samples of zooplankton originating from Tulear in Madagascar, including the taxonomic classification.
+These various features were measured by image analysis with the package zooimage and ImageJ. 
+These organisms originate from various samples (different seasons, depth, etc.) to take the variability into account.
 
 # Analysis
 
@@ -41,4 +41,4 @@ chart(data = zooplankton, size ~ class %fill=% class) +
   ylab("size [mm]")
 ```
 
-This graphic indicates that planktonic animals are globally between 0.2 and 2 mm in size. However, two classes of zooplankton exhibit a higher size distribution: from 1.2 to 2.9 mm for the cnidarians and from 2.6 to 4.3 mm for the chaetognaths. -> **A vérifier (grammaire) !**
+This graphic indicates that planktonic animals are globally between 0.2 and 2 mm in size. However, two classes of zooplankton exhibit a higher size distribution: from 1.2 to 2.9 mm for the cnidarians and from 2.6 to 4.3 mm for the chaetognaths.
