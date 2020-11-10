@@ -1,0 +1,38 @@
+---
+title: "graphic_description"
+categories:
+  - Data Sciences I
+description: |
+  A short description of the post.
+author:
+  - name: Bayaert Wendy-Shirley
+    url: {}
+date: 11-10-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+SciViews::R
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r importation}
+data <- read("zooplankton", package = "data.io")
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+# Introduction
+
+The study was realised thanks to a data frame with 19 variables on samples of zooplankton originating from Tulear in Madagascar, including the taxonomic classification.
+Those various features was measured by image analysis with the package zooimage and ImageJ. 
+Those organisms originate from various samples (different seasons, depth, etc.) to take the variability into account. -> *A arranger (grammaire) !*
+
+# Analysis
+
+Graphique en anglais + commentaire (2-3 lignes)
+

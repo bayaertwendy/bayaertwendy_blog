@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-10-graphicdescription/",
+    "title": "graphic_description",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Bayaert Wendy-Shirley",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-10",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": {},
+    "last_modified": "2020-11-10T09:38:23+01:00"
+  },
+  {
     "path": "posts/2020-10-25-mon-article/",
     "title": "mon article",
     "description": "Scientific article of an animal: the resplendent quetzal.",
